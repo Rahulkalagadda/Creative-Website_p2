@@ -1,4 +1,4 @@
-# Duo Studio — A Creative Digital Agency
+# By Digital Rise Marketing
 
 This project is a creative digital agency website built with HTML, CSS, and JavaScript. It features smooth scrolling, animations, and a modern design to showcase the agency's work and services.
 
@@ -56,4 +56,5 @@ This project is for personal or educational use. Feel free to modify and use it 
 - Fonts: PP Mori.
 
 ---
+
 Enjoy creating your own creative agency website!
